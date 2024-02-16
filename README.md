@@ -6,6 +6,6 @@ It works for latest version of Katana ZERO game, with 4 functions, typein corres
 4. Disable Enemy AI - As it says it disables all enemies' AI.
 
 It's a simple project for me to learn basic reverse engineering and RPM/WPM. I hope it will be helpful to someone.
-Basic hack logic from [GreenHouse's Table](https://fearlessrevolution.com/viewtopic.php?t=9248)
+Basic hack logic from [GreenHouse's Table](https://fearlessrevolution.com/viewtopic.php?t=9248)  
 GHN's code for searching memory helps a lot too.
 
