@@ -1,5 +1,5 @@
 # KatanaZERO-Trainer
-It works for latest version of Katana ZERO game, with 4 functions, typein corresponding number again to disable function.
+A simple cheat works for latest version of Katana ZERO game, with 4 functions, typein corresponding number again to disable function.
 1. Unlimittime - which gives you unlimittime in levels
 2. Enemy can't hit you  -  You could still be killed by lasers.
 3. No clip - Disable collisons to walls, You might fall into void with this.
